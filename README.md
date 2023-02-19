@@ -1,9 +1,16 @@
-### Hi there 👋
 
-<!--
-**StegninaES/StegninaES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет, меня зовут Елена Стегнина.
+Я начинающий iOS разработчик
 
-Here are some ideas to get you started:
+Вот,что я умею:
+Swift.ссылка на дипломную работу
+Swift.ссылка на домашние работы
+
+Сертификаты нетологии:
+Swift.ссылка на сертификат нетологии
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
