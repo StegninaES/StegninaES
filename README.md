@@ -5,7 +5,7 @@
 
 <h3>Вот, что я умею:</h3>
 <ul>
-  <li>Swift.ссылка на дипломную работу</li>
+  <li>Swift <a href="https://github.com/StegninaES/navigation" target="_blank">Дипломный проект</a> </li>
   <li>Swift.ссылка на домашние работы</li>
 </ul>
 
