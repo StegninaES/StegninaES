@@ -31,7 +31,7 @@
   <li><a href="https://github.com/StegninaES/StegninaES/blob/main/Тестирование%20веб-приложений.pdf" target="_blank">Тестирование веб-приложений</a></li>
   <li><a href="https://github.com/StegninaES/StegninaES/blob/main/Основы%20тест-аналитики.pdf" target="_blank">Основы тест-аналитики</a></li>
   <li><a href="https://github.com/StegninaES/StegninaES/blob/main/Компьютерные%20сети.%20Интерактивный%20курс.pdf" target="_blank">Компьютерные сети</a></li>
-   <li><a href="https://github.com/StegninaES/StegninaES/blob/main/Linux.%20Рабочая%20станция.pdf" target="_blank">Linux</a></li>
+   <li><a href="https://github.com/StegninaES/StegninaES/blob/main/Linux.%20Рабочая%20станция.pdf" target="_blank">Linux. Рабочая станция</a></li>
    <li><a href="https://https://github.com/StegninaES/StegninaES/blob/main/Java.%20Уровень%201.pdf" target="_blank">Java 1 Уровень</a></li>
   
 </ul>
